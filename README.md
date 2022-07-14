@@ -1,7 +1,7 @@
 # **Python Fundamentals Tutorial**
 
 ## Table of Contents
-[Welcome](0-welcome.md)
+[Welcome](python-fundamentals-tutorial-/0-welcome.md)
 * [Introduction](#introduction)
 * [Contact](#contact)
 
