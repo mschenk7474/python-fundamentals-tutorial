@@ -1,6 +1,6 @@
 lsi: false
 safe: true
-source: python-fundamentals-tutorial/python-fundamentals-tutorial-/0-weclome.md
+source: readme.md
 incremental: false
 highlighter: rouge
 gist:
