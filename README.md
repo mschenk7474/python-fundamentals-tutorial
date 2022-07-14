@@ -5,11 +5,11 @@
 * [Introduction](#introduction)
 * [Contact](#contact)
 
-[Queue](1-queue.md)
+[Queue](python-fundamentals-tutorial-/1-queue.md)
 
-[Set](2-set.md)
+[Set](python-fundamentals-tutorial-/2-set.md)
 
-[Tree](3-tree.md)
+[Tree](python-fundamentals-tutorial-/3-tree.md)
 
 ## Introduction
 Welcome to the Python Fundamentals Tutorial. We will be going over basic a few Python data structures, and each module will cover one data structure. Within each module, there will be an in-depth explanation of what the data structure is, how to apply the said structure in Python, and some examples for you to try to master the data structure.
